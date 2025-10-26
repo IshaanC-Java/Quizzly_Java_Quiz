@@ -3,8 +3,8 @@
  * Write a description of class Quizzly_Functionality here.
  * This is a class that establishes the functionality of the quiz application.
  * It presents the question, the options, and takes in the answers. It cross checks the answer and increments score.
- * @author (your name)
- * @version (a version number or a date)
+ * @IshaanC_Java
+ * @25/10/25
  */
 import java.io.*;
 public class Quizzly_Functionality{
