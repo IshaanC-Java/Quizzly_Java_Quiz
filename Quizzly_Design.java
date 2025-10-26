@@ -1,13 +1,11 @@
 
 /**
  * Write a description of class Quizzly_Design here.
- *This program aims to allow the user to design his/her own quiz having n number of questions with n number of options. 
- *Options shall be taken in type String. However, the user(candidate) shall only require to enter the character/option
- *A randomizer from the main app program may be used to prevent cheating
+ *This class aims to allow the user to design his/her own quiz having n number of questions each with n number of options. 
+ *Options shall be taken in type String. However, the attempter shall only require to enter the option number.
  *The quiz shall be stored to a file <<user defined name>>.txt. 
- *No of q->q1->No of options->**All questions and options written to the file** ->Correct ans stored in Design_Answers.txt
- * @author Ishaan Chakraborty
- * @version 19/10/25
+ * @IshaanC_Java
+ * @19/10/25
  */
 import java.io.*;
 public class Quizzly_Design{
