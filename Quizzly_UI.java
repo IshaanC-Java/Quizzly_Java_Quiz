@@ -2,8 +2,8 @@
 /**
  * Write a description of class Quizzly_UI here.
  *This class presents the choices to the user. 
- * @author (your name)
- * @version (a version number or a date)
+ * @IshaanC_Java
+ * @25/10/25
  */
 import java.util.Scanner;
 public class Quizzly_UI{
