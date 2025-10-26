@@ -1,9 +1,9 @@
 
 /**
  * Write a description of class Quizzly_Attempt here.
- *This class allows users to attempt a selected quiz
- * @author (your name)
- * @version (a version number or a date)
+ *This class allows users to attempt a selected (entered using name) quiz
+ * IshaanC_Java
+ * 26/10/25
  */
 import java.io.*;
 public class Quizzly_Attempt{
